@@ -1,5 +1,5 @@
-let fInput;
-let sInput;
+let fInput = 5;
+let sInput = 6;
 
 if(fInput % 3 === 0 && sInput % 3 === 0){
     console.log(fInput , sInput);

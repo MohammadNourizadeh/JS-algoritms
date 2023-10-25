@@ -1,6 +1,6 @@
-let input;
-let total;
-let tedad;
+let input = 44;
+let total = 0;
+let tedad = 0;
 
 for(let i = 0 ; i <= input ; i++){
     if(i%4 ===0){

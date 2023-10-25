@@ -1,4 +1,4 @@
-let hoqooq;
+let hoqooq = 30000;
 let mazad;
 
 if(hoqooq < 50000){

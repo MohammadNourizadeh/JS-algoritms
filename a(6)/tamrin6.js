@@ -1,4 +1,4 @@
-let n;
+let n = 33;
 let m = n;
 let total = 0;
 let kharejGhesmat = n/10;

@@ -1,4 +1,4 @@
-let input;
+let input = 11;
 let kharejGhesmat = input/10;
 let dahgan;
 let yekan;
